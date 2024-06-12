@@ -31,7 +31,7 @@ Along with:
 - Java Tuples
 - SLF4J
 
-## **How to run the [1] Pre-processing and [2] Post-processing:**
+## **How to run the [1] Pre-processing and [3] Post-processing:**
 1. Install Anaconda on your machine.
 2. Create a new environment.
 3. *[REQUIRED]* install the necessary versions of the packages as indicated in the environment.yml and requirements.txt
