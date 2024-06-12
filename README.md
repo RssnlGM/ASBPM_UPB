@@ -62,3 +62,9 @@ The applet allows the user to run the simulation:
 - Empirical ABM (UPB).
 
 This come with pre-defined set as regards the parameters: number of jobs, numAgents per scenario, numberTripsPerAgent. This is line with the settings used for producing the results presented in the papers mentioned above. The user can also change other simulation-related parameters by clicking on the Other Options button, before starting the simulation.
+
+
+## **COMMON TROUBLESHOOTING:**
+- GIS files should be edited or manipulated in ArcGIS Pro. The use of other GIS manipulation software will not guarantee compatibility.
+- Check that all the source directory are correct.
+- Check that all the versions of the packages are correct. The use of newer versions will not guarantee proper working state especially for the Jupyter Notebook files.
