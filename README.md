@@ -1,4 +1,4 @@
-#**Agent’s Spatial Behavior in Pedestrian Movement: An Empirical Study using GeoMASON in University of the Philippines Baguio**
+# **Agent’s Spatial Behavior in Pedestrian Movement: An Empirical Study using GeoMASON in University of the Philippines Baguio**
 
 Author: Rosseau Nilo G. Maamor 
 
