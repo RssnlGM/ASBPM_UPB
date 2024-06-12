@@ -31,8 +31,13 @@ Along with:
 - Java Tuples
 - SLF4J
 
+## **How to run the [1] Pre-processing and [2] Post-processing:**
+1. Install Anaconda on your machine.
+2. Create a new environment.
+3. *[REQUIRED]* install the necessary versions of the packages as indicated in the environment.yml and requirements.txt
+4. Run the Python Jupyter Notebook files.
 
-## **How to run the applet:**
+## **How to run the applet ([2] Processing):**
 
 1. Install Java on your machine.
 2. Download the jar file pedsimcity1.23-jar-with-dependencies.jar wherever it is convenient.
@@ -47,7 +52,7 @@ If the user desires to use the applet within Eclipse, for example, to explore th
 1. Download the raw content of the Github PedSimCity Repository, as a .zip file.
 2. Unzip the file and move the nested PedSimCity-Master folder wherever it is convenient.
 3. Open Eclipse, and create a new Java project; any name will do.
-4. Right click on the project on the left-hand side Package Explorer. Select Build Path, Link Source, navigate to the PedSimCity-Master, navigate to and then select the folder src/main/java (without double clicking on it).
+4. Right click on the project on the left-hand side Package Explorer. Select Build Path, Link Source, navigate to the ASBPM_UPB, navigate to and then select the folder src/main/java (without double clicking on it).
 5. Import all the libraries mentioned above, manually, by right clicking on your project Build Path, Add External Archives.
 6. To execute the applet, right-click on teh class PedSimCity.applet, Run as Java Application.
 7. Before pressing the Run Simulation button, click on Other options and copy-paste the entire path referring to the path src/main/resources/ in the corresponding field. This is necessary for retrieving the input data.
