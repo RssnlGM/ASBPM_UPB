@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Wednesday, 13 March 2024 3:28:24 am</msg><msg code="0" type="50">Failed to convert: UPB Data\landmarks. Failed to execute. Parameters are not valid.
+ERROR 000733: Output Feature Class: Same as input C:\Users\RNGM\OneDrive\Documents\GitHub\EmpASBPM\PedSimCity-1.22\src\main\resources\UPB\landmarks.shp
+Failed to execute (CopyFeatures).
+</msg><msg code="0" type="3">Succeeded at Wednesday, 13 March 2024 3:28:27 am (Elapsed Time: 3.20 seconds)</msg></messages>

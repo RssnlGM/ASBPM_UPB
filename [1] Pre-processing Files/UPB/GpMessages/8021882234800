@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Monday, 19 February 2024 1:11:00 pm</msg><msg code="539" type="100">ERROR 000539:   File "&lt;expression&gt;", line 1
+    .count(nodeID)
+    ^
+SyntaxError: invalid syntax
+</msg><msg code="-2147467259" type="100">Failed to execute (CalculateField).</msg><msg code="0" type="3">Failed at Monday, 19 February 2024 1:11:00 pm (Elapsed Time: 0.02 seconds)</msg></messages>

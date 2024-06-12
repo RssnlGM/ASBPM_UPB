@@ -1,0 +1,6 @@
+,usingElements_mean,usingElements_std,noElements_mean,noElements_std,onlyDistance_mean,onlyDistance_std,onlyAngular_mean,onlyAngular_std,distanceHeuristic_mean,distanceHeuristic_std,angularHeuristic_mean,angularHeuristic_std,regions_mean,regions_std,routeMarks_mean,routeMarks_std,barriers_mean,barriers_std,distantLandmarks_mean,distantLandmarks_std,preferenceNatural_mean,preferenceNatural_std,aversionSevering_mean,aversionSevering_std,portion
+group2,0,0,0,0,0,0,0,0,0.634571429,0.021125475,0,0,0,0,0.329142857,0.034483951,0.670857143,0.034483951,0,0,0,0,0,0,0.7
+group1,0,0,0,0,0,0,0,0,0.54,0,0,0,0,0,0.435,0,0.565,0,0,0,0,0,0,0,0.2
+group3,0,0,0,0,0,0,0,0,0.762,,0,0,0,0,0.168,,0.832,,0,0,0,0,0,0,0.1
+population,0,0,0,0,0,0,0,0,0.6284,0.063615512,0,0,0,0,0.3342,0.07835645,0.6658,0.07835645,0,0,0,0,0,0,1
+nullGroup,0,0,0,0,0,0,0,0,0.6284,0.063615512,0,0,0,0,0.3342,0.07835645,0.6658,0.07835645,0,0,0,0,0,0,1
