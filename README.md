@@ -49,10 +49,10 @@ This is the recommended option for running PedSimCity and it does not require th
 
 If the user desires to use the applet within Eclipse, for example, to explore the source files or to make changes, the following instructions should be followed:
 
-1. Download the raw content of the Github PedSimCity Repository, as a .zip file.
-2. Unzip the file and move the nested PedSimCity-Master folder wherever it is convenient.
+1. Download the raw content of the Github ASBPM_UPB Repository, as a .zip file.
+2. Unzip the file and move the nested PedSimCity-1.23 folder wherever it is convenient.
 3. Open Eclipse, and create a new Java project; any name will do.
-4. Right click on the project on the left-hand side Package Explorer. Select Build Path, Link Source, navigate to the ASBPM_UPB, navigate to and then select the folder src/main/java (without double clicking on it).
+4. Right click on the project on the left-hand side Package Explorer. Select Build Path, Link Source, navigate to the PedSimCity-1.23, navigate to and then select the folder src/main/java (without double clicking on it).
 5. Import all the libraries mentioned above, manually, by right clicking on your project Build Path, Add External Archives.
 6. To execute the applet, right-click on teh class PedSimCity.applet, Run as Java Application.
 7. Before pressing the Run Simulation button, click on Other options and copy-paste the entire path referring to the path src/main/resources/ in the corresponding field. This is necessary for retrieving the input data.
@@ -65,6 +65,6 @@ This come with pre-defined set as regards the parameters: number of jobs, numAge
 
 
 ## **COMMON TROUBLESHOOTING:**
-- GIS files should be edited or manipulated in ArcGIS Pro. The use of other GIS manipulation software will not guarantee compatibility.
+- (For [1] Pre-processing) GIS files should be edited or manipulated in ArcGIS Pro. The use of other GIS manipulation software will not guarantee compatibility.
 - Check that all the source directory are correct.
 - Check that all the versions of the packages are correct. The use of newer versions will not guarantee proper working state especially for the Jupyter Notebook files.
